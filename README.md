@@ -1,3 +1,44 @@
+## ReactJS Chapter 14
+It is my coding practice with the TUTORIAL of Dave Gray. 
+
+## Source
+### Dave Gray 的 Reactjs 課程
+https://youtube.com/playlist?list=PL0Zuz27SZ-6PrE9srvEn8nbhOOyxnWXfp
+### Dave Gray 的 YouTube 頻道
+https://www.youtube.com/@DaveGrayTeachesCode
+
+## ReactJS Chapter 14
+   Quick Concept outline
+   中文摘要說明與重點提問
+   
+###  1. Intro 
+        教學影片固定的開頭和摘要說明
+
+###  2. Project Discussion <Code更動>
+        
+
+###  3. Creating the async API Request function <Code更動>
+        新增 apiRequest.js
+
+###  4. Create a new record with a Post API request <Code更動>
+        指派 postOptions
+
+###  5. Check incoming JSON Server API requests
+        確認 json server 傳輸 get request 和 post request 的時間
+        確認新增的第四個 cookies
+
+###  6. Update an existing record with a Patch API request <Code更動>
+        指派 myItem
+        指派 updateOptions
+        指派 reqUrl
+        指派 result
+
+###  7. Delete an existing record with a Delete API request <Code更動>
+        指派 deleteOptions
+        指派 reqUrl
+        指派 result
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
